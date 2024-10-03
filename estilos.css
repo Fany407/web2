@@ -1,0 +1,40 @@
+/* styles.css */
+body {
+    background-color: #6158df; /* Color de fondo */
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #170677;
+    margin-top: 20px;
+}
+
+.gif {
+    display: block;
+    margin: 0 auto;
+    width: 300px; /* Ajusta el tamaño del GIF */
+}
+
+h2 {
+    color: #0906d6;
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+blockquote {
+    border-left: 4px solid #121213;
+    padding-left: 10px;
+    font-style: italic;
+    color: #e60e0e;
+}
+
+#recuerdos {
+    padding: 5px;
+}
